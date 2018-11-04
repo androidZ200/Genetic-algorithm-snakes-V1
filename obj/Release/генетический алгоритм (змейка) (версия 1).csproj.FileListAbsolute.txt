@@ -1,0 +1,12 @@
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический алгоритм (змейка) (версия 1)\генетический алгоритм (змейка) (версия 1)\bin\Release\генетический алгоритм (змейка) (версия 1).exe.config
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический алгоритм (змейка) (версия 1)\генетический алгоритм (змейка) (версия 1)\bin\Release\генетический алгоритм (змейка) (версия 1).exe
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический алгоритм (змейка) (версия 1)\генетический алгоритм (змейка) (версия 1)\bin\Release\генетический алгоритм (змейка) (версия 1).pdb
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический алгоритм (змейка) (версия 1)\генетический алгоритм (змейка) (версия 1)\obj\Release\генетический_алгоритм__змейка___версия_1_.FormMain.resources
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический алгоритм (змейка) (версия 1)\генетический алгоритм (змейка) (версия 1)\obj\Release\генетический_алгоритм__змейка___версия_1_.FormOptions.resources
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический алгоритм (змейка) (версия 1)\генетический алгоритм (змейка) (версия 1)\obj\Release\генетический_алгоритм__змейка___версия_1_.Properties.Resources.resources
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический алгоритм (змейка) (версия 1)\генетический алгоритм (змейка) (версия 1)\obj\Release\генетический алгоритм (змейка) (версия 1).csproj.GenerateResource.cache
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический алгоритм (змейка) (версия 1)\генетический алгоритм (змейка) (версия 1)\obj\Release\генетический алгоритм (змейка) (версия 1).csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический алгоритм (змейка) (версия 1)\генетический алгоритм (змейка) (версия 1)\obj\Release\генетический алгоритм (змейка) (версия 1).exe
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический алгоритм (змейка) (версия 1)\генетический алгоритм (змейка) (версия 1)\obj\Release\генетический алгоритм (змейка) (версия 1).pdb
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический алгоритм (змейка) (версия 1)\генетический алгоритм (змейка) (версия 1)\obj\Release\генетический алгоритм (змейка) (версия 1).csprojAssemblyReference.cache
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический алгоритм (змейка) (версия 1)\генетический алгоритм (змейка) (версия 1)\obj\Release\генетический_алгоритм__змейка___версия_1_.FormTeachSnake.resources
